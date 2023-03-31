@@ -1,6 +1,6 @@
 Name:		texlive-datetime2-slovak
 Version:	52281
-Release:	1
+Release:	2
 Summary:	Slovak language module for the datetime2 package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-slovak
